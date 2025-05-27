@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Appetizers",
+    "image": "/categoryImages/Appetizers.jpeg",
+    "items": 10
+  },
+  {
+    "id": 2,
+    "name": "Entrees",
+    "image": "/categoryImages/Entrees.jpeg",
+    "items": 12
+  },
+  {
+    "id": 3,
+    "name": "Rice & Noodles",
+    "image": "/categoryImages/RiceNoodles.jpeg",
+    "items": 10
+  },
+  {
+    "id": 4,
+    "name": "Breads",
+    "image": "/categoryImages/Breads.jpeg",
+    "items": 8
+  },
+  {
+    "id": 5,
+    "name": "Desserts",
+    "image": "/categoryImages/Desserts.jpeg",
+    "items": 10
+  },
+  {
+    "id": 6,
+    "name": "Beverages",
+    "image": "/categoryImages/Beverages.jpeg",
+    "items": 10
+  },
+  {
+    "id": 7,
+    "name": "Sides",
+    "image": "/categoryImages/Sides.jpeg",
+    "items": 8
+  }
+]
